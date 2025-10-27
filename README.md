@@ -1,3 +1,6 @@
+Name-Alu Lokon
+Email-lokonallu444@gmail.com
+
 🎥 Movie Recommendation System
 
 A machine learning project that recommends movies based on user preferences using content-based filtering techniques.
